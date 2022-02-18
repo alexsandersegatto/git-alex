@@ -3,4 +3,5 @@
 3. Continuo no master.
 4. Este esta sendo editado pelo clone.
 5. Agora eu vou editar.
-6. Estou editando clone.
+<<<<<<< HEAD
+6. Nós dois estamos editando
